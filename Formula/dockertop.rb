@@ -1,8 +1,8 @@
 class Dockertop < Formula
   desc "Htop-style view of Docker containers and the processes inside them"
   homepage "https://github.com/andydixon/dockertop"
-  url "https://github.com/andydixon/dockertop/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "9fff9fd23e9e51c8a84d2eafbb2d0d833604242adba0ab3464b5e38cbb6d2edc"
+  url "https://github.com/andydixon/dockertop/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "ed657dd374fdda49d78f74ba56d3803a5d3ddf04fde578483e4aa8c14ace601b"
   license "GPL-3.0-or-later"
   head "https://github.com/andydixon/dockertop.git", branch: "master"
 
