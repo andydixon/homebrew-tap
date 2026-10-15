@@ -1,8 +1,8 @@
 class Apex < Formula
   desc "Native, high-performance text editor"
   homepage "https://dixon.cx/apex"
-  url "https://github.com/andydixon/apex/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "c4136f590160a4dbd11048bf192ece42bf8e89d8ee5d5af9f19cc204a2e86ebe"
+  url "https://github.com/andydixon/apex/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "e1f72846d81cd3b7b8c2847c61a5f0945e5f32379faa0df2b9e645cdc7de2dce"
   license "AGPL-3.0-or-later"
   head "https://github.com/andydixon/apex.git", branch: "main"
 
